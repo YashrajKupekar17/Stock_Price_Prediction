@@ -7,8 +7,7 @@
 - **Technical Indicators Guide**: [Technical Analysis Notes](https://cloudy-tin-428.notion.site/Technical-Indicators-166bbbfd19c98062af7ae1077a5de628?pvs=4)
 
 ### Executive Summary
-This project implements a Long Short-Term Memory (LSTM) neural network for stock price prediction using historical market data. The model demonstrated exceptional performance with a testing R² score of 0.93 and a Mean Absolute Percentage Error (MAPE) of 2.82% on the test dataset. A basic trading strategy based on the model's predictions showed a significant return of 210.58% on the initial investment, highlighting the potential practical applications of the system.
-
+This project implements a Long Short-Term Memory (LSTM) neural network for stock price prediction using historical market data. The model demonstrated exceptional performance with a testing R² score of 0.93 and a Mean Absolute Percentage Error (MAPE) of 2.82% on the test dataset. 
 ### 1. Introduction
 #### 1.1 Problem Statement
 Stock price prediction remains one of the most challenging problems in financial analysis due to:
