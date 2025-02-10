@@ -1,7 +1,7 @@
 # 📈 Stock Price Prediction Using LSTM Neural Networks  
 ![image](https://github.com/user-attachments/assets/ac850d48-30fb-4211-9225-afe895c16a15)
 
-This project implements an **LSTM-based neural network** to predict **Apple Inc. (AAPL) stock prices** using historical market data and technical indicators. The model achieved **a testing R² score of 0.93** and a **Mean Absolute Percentage Error (MAPE) of 2.82%**, demonstrating strong predictive accuracy. A basic trading strategy based on the model’s predictions yielded a **210.58% return on investment**.  
+This project implements an **LSTM-based neural network** to predict **Apple Inc. (AAPL) stock prices** using historical market data and technical indicators. The model achieved **a testing R² score of 0.93** and a **Mean Absolute Percentage Error (MAPE) of 2.82%**, demonstrating strong predictive accuracy. 
 
 ## 🚀 Key Features  
 - **Data Source:** Yahoo Finance (2015–2022)  
